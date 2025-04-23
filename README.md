@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working as a freelancer
+I'm currently working as a Frontend software engineer at kiro travel
 
 
 ## 🌐 Socials:
