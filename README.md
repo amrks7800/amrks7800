@@ -1,5 +1,25 @@
-# 💫 About Me:
-I'm currently working as a Frontend software engineer at kiro travel
+# Hi, I'm Amr 👋
+
+### Fullstack Software Engineer | React Native & Next.js
+
+I engineer production-grade cross-platform mobile applications and highly scalable web platforms. My focus is on bridging complex backend infrastructures with high-performance user interfaces, handling everything from real-time database synchronization to seamless offline-to-online data mutations.
+
+Currently building mobile apps and full-stack systems at **Arabcode** and **Vivionify Software**.
+
+### 🛠️ Core Tech Stack
+
+* **Mobile & Frontend:** React Native, React.js, Next.js, TypeScript, TailwindCSS, Zustand, React Query
+* **Backend & Architecture:** Node.js, Express, Golang (Gin), Server-Sent Events (SSE), REST APIs
+* **Databases & DevOps:** MongoDB, SQL, Redis, BullMQ, Vercel, AWS
+* **Tools:** JWT, Zod, Git, Markdown
+
+### 🚀 What I'm Working On
+* Architecting **Tejwaly** & **Garage** (Cross-platform React Native applications).
+* Developing **Takhta.com** (Dual-user role web platform for instructors and translators).
+* Building custom real-time database sync engines for zero-latency mobile/web updates.
+
+---
+📫 **Reach me at:** amrkh.business@gmail.com
 
 
 ## 🌐 Socials:
